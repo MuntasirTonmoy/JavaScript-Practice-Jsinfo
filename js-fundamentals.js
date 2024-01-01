@@ -8,3 +8,19 @@
 /* 
     In JS nested multiple line comment isn't supported
 */
+
+//=======================================================
+// if we don't use use-strict at top it won't active
+// "use strict";
+// console.log("hello world!");
+
+// abc = 10; // throw error
+//=======================================================
+
+//=======================================================
+// if we don't use use-strict at top it won't active
+console.log("hello world!");
+
+("use strict");
+abc = 10; //* don't throw error
+//=======================================================
