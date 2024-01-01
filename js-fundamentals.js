@@ -4,3 +4,7 @@
 // How to run Js code
 //* in nodejs use the command "node filename.js", we can ommit .js extension as node.js by default search file with .js extension
 //* in browser we can insert JavaScript code into an HTML file using <script> tag
+
+/* 
+    In JS nested multiple line comment isn't supported
+*/
