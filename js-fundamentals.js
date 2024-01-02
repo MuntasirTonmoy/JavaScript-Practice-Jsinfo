@@ -32,3 +32,7 @@ let camelCase = "variable";
 const birthDate = "09/4/97";
 // any known value that is hard to remember we can use all UPPERCASE
 const PRIMARY_COLOR = "#000";
+
+// data type
+console.log("typeof NaN ->", typeof NaN);
+console.log("typeof null ->", typeof null);
