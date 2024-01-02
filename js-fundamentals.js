@@ -25,6 +25,9 @@ console.log("hello world!");
 abc = 10; //* don't throw error
 //=======================================================
 
+//* in $ _ symbol allowed in variable
+//* first character can't be digit
+//* JS reserved name can't be used as variable name
 let camelCase = "variable";
 const birthDate = "09/4/97";
 // any known value that is hard to remember we can use all UPPERCASE
