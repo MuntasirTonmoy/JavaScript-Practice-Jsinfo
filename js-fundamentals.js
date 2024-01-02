@@ -36,3 +36,4 @@ const PRIMARY_COLOR = "#000";
 // data type
 console.log("typeof NaN ->", typeof NaN);
 console.log("typeof null ->", typeof null);
+console.log("typeof alert -> ", typeof function () {});
