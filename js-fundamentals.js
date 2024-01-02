@@ -26,6 +26,6 @@ abc = 10; //* don't throw error
 //=======================================================
 
 let camelCase = "variable";
-
+const birthDate = "09/4/97";
 // any known value that is hard to remember we can use all UPPERCASE
-const PRIMARY_COLOR = #000
+const PRIMARY_COLOR = "#000";
