@@ -6,7 +6,7 @@
 
 // why in old time this technique is used <script type="text/javascript"><!--//--></script>
 
-// when we use external js script and is there any benifit?
+// when we use external js script and is there any benefit?
 // what type can be the path in src='' attribute
 
 // if the src='' attribute is set does the program inside the <scrip> tag worked or ignored?
