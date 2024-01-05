@@ -1,6 +1,6 @@
-// put semicolon at the end on a statement
-// comment your code which describe what the code does and why
+// should we put semicolon end of an statement?
+// should we comment our code which describe what the code does and why?
 
-// js interprets the line break as implicit semicolon
+// what does js interpret a line break?
 
-// js don't support nested multiline comment
+// js don't support nested multiline                                 comment
