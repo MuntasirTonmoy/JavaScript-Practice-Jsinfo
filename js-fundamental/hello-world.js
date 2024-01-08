@@ -1,8 +1,9 @@
 // how to run js code in node.js?
 // where can we put <script> tag and how the js program inside the <script> tag execute?
+// -  can be inserted almost anywhere, automatically executed when the browser processes the tag
 
 // type attribute in <script> tag. what does it means now? in HTML4 why does the type attribute is being used?
-// why does language attribute is used?
+// why does "language" attribute is used?
 
 // why in old time this technique is used <script type="text/javascript"><!--//--></script>
 
