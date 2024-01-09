@@ -5,3 +5,6 @@
 // difference between regular equality check vs strict equality check?
 // how null and undefined comparison works for == and ===?
 // can we compare undefined with other type of value?
+// null vs 0 comparison?
+
+// How to avoid problem when comparing
