@@ -12,3 +12,6 @@
 // when we use UPPERCASE CONSTANT?
 
 // When naming variable what should we consider? and what are the some rules to follow when naming variable?
+
+// what is local or global variable?
+// should we minimize the use of global variable?
