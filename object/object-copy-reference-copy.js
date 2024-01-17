@@ -7,3 +7,4 @@
 // how can we clone a nested object? what does deep clone or structured clone mean?
 // how structuredClone() work? does it support circular ref? does it clone method?
 // what function loadash library provide for deep clone?
+// does object.assign copy symbol prop?

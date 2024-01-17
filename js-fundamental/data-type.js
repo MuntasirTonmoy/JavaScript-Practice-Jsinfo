@@ -28,6 +28,19 @@
 
 //* Symbol
 // what is symbol type value used?
+// what does symbol represent?
+// how can we create a value of symbol type?
+// what is symbol name/description? what does it used for mostly?
+// if we create many symbol with same description does that mean they are same?
+// does symbol auto converted to string? if we want to explicitly convert how can?
+// how can we use symbol in object literals?
+// use case for symbol?
+// what ignore symbol property?
+
+// what is global symbol?
+// how can we read or create a global symbol?
+// how do we get global symbol name?
+// system symbol
 
 // ===Non Primitive===
 //* Object
