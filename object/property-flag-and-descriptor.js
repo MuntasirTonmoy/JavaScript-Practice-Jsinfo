@@ -9,3 +9,8 @@
 
 // how can we seal, prevent extension, freeze an entire object?
 // how can we check an object is freeze, sealed, extensible or not?
+
+// how the accessor property descriptor work? what is the difference with normal property?
+// if we supply both normal and accessor property flag in a property will it throw error?
+
+// show some usecase for getter and setter

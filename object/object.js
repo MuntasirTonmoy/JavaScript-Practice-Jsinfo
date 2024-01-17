@@ -22,3 +22,5 @@
 
 // how object properties are ordered by default?
 // what does integer properties mean?
+
+// property name starts with _ what does it mean?
