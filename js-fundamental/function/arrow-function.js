@@ -5,3 +5,5 @@
 // what we should give importance when using multiline arrow function?
 
 // arrow function have no this where does it take from?
+
+// arrow function can't be used as constructor function. why?
