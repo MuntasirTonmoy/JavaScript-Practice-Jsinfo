@@ -8,6 +8,8 @@
 
 // does arrow function have 'this' keyword? how the value of 'this' keyword determines in arrow function?
 
-// why arrow function can't be used as constructor function?
+// why arrow function can't be used as constructor function? can we call an arrow function with 'new' keyword?
+
+// arrow function vs function binding.
 
 // can we use 'super' keyword in an arrow function?
